@@ -1,0 +1,11 @@
+This is LaTeX compiling system on Web.
+
+How to install:
+
+1. Make home directory in apache's document root.
+2. Edit "$home_dir = 'home directory';" in upload.php and do.php.
+3. Edit "$platex_dir = 'platex directory';" in upload.php and do.php.
+4. Edit "$dvipdfmx_dir = 'platex directory';" in upload.php and do.php.
+5. Make "files" and "work" directory in home directory.
+6. Touch "count.txt" file in home directory.
+
